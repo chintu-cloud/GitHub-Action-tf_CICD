@@ -115,6 +115,11 @@ jobs:
 
 <img width="1878" height="835" alt="Screenshot 2025-11-24 133818" src="https://github.com/user-attachments/assets/cf064ef6-ab27-4145-b78e-5268684685a8" />
 
+<img width="750" height="701" alt="Screenshot 2025-11-24 133528" src="https://github.com/user-attachments/assets/3b8fe1a4-7d2b-4c63-8420-0bd1a848a30f" />
+
+<img width="686" height="765" alt="Screenshot 2025-11-24 133616" src="https://github.com/user-attachments/assets/65329a3a-22b3-48ab-b0a9-de76b751da69" />
+
+<img width="589" height="702" alt="Screenshot 2025-11-24 133636" src="https://github.com/user-attachments/assets/7ffacea2-566e-43d5-8628-7a51330bcf0f" />
 
 
 
@@ -124,6 +129,9 @@ jobs:
 - Ensure your `main.tf` and `provider.tf` files are correctly configured for the AWS resources you want to deploy.
 - Secrets must be kept private and never hardcoded in files.
 - This setup uses **manual workflow dispatch**; you can extend it to run on `push` or `pull_request`.
+
+  <img width="1865" height="869" alt="Screenshot 2025-11-24 140006" src="https://github.com/user-attachments/assets/4ed4c064-64b9-49cd-ad4b-b386f9b077a6" />
+
 
 ---
 
@@ -140,6 +148,11 @@ Once the workflow runs successfully:
 - Add resource definitions in `main.tf` (e.g., EC2, S3, VPC).
 - Extend workflows for testing, linting, and multi-environment deployments.
 ```
+
+<img width="1673" height="256" alt="Screenshot 2025-11-24 133847" src="https://github.com/user-attachments/assets/e39eeef7-dd31-4b4c-a311-48562543bcf2" />
+
+<img width="1672" height="313" alt="Screenshot 2025-11-24 133912" src="https://github.com/user-attachments/assets/f397ca20-03bc-4f54-9c2b-a81decad42f8" />
+
 
 ---
 
