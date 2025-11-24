@@ -161,12 +161,12 @@ Once the workflow runs successfully:
 <img width="1672" height="313" alt="Screenshot 2025-11-24 133912" src="https://github.com/user-attachments/assets/c74b6bba-af0c-440b-bb40-4cd872310c8d" />
 
 
-```
+
 # why resources not destroy ?
 After resources create we can not destroy in github action flow, if we can destroy manually goto aws console select & delete resource.
 Because, after create resource terraform.tf files automatically deleted. so we cann't destroy through github action flow.
 if we can destroy manually goto aws console select & delete resource.
-```
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c19b863a-e49c-45bc-87ca-325dd394f47b" />
 
