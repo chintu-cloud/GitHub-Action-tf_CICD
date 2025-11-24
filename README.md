@@ -1,6 +1,6 @@
 <img width="1075" height="550" alt="image" src="https://github.com/user-attachments/assets/b6dc5a77-9c2f-4638-87bd-8ddd75afb911" />
 
-<img width="1039" height="554" alt="alternate tool" src="https://github.com/user-attachments/assets/1db8cb72-69ad-4189-8670-f70bd8371426" />
+
 
 
 
@@ -174,4 +174,6 @@ if we can destroy manually goto aws console select & delete resource.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c19b863a-e49c-45bc-87ca-325dd394f47b" />
 
 
-```
+
+<img width="1039" height="554" alt="alternate tool" src="https://github.com/user-attachments/assets/2e0f12f9-572a-450d-ab39-31bacfb5c832" />
+
