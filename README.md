@@ -1,3 +1,8 @@
+<img width="900" height="569" alt="image" src="https://github.com/user-attachments/assets/2348b437-4d98-4370-aec5-3cb659c4ec99" />
+
+
+
+
 
 # GitHub-Action-tf_CICD
 
@@ -148,12 +153,16 @@ Once the workflow runs successfully:
 - Add resource definitions in `main.tf` (e.g., EC2, S3, VPC).
 - Extend workflows for testing, linting, and multi-environment deployments.
 ```
-
-<img width="1673" height="256" alt="Screenshot 2025-11-24 133847" src="https://github.com/user-attachments/assets/e39eeef7-dd31-4b4c-a311-48562543bcf2" />
-
-<img width="1672" height="313" alt="Screenshot 2025-11-24 133912" src="https://github.com/user-attachments/assets/f397ca20-03bc-4f54-9c2b-a81decad42f8" />
+```
+<img width="1673" height="256" alt="Screenshot 2025-11-24 133847" src="https://github.com/user-attachments/assets/fe7febb5-cadf-443f-9a25-9a76a5987af8" />
 
 
+<img width="1672" height="313" alt="Screenshot 2025-11-24 133912" src="https://github.com/user-attachments/assets/c74b6bba-af0c-440b-bb40-4cd872310c8d" />
+
+
+
+
+```
 ---
 
 Would you like me to also **fill in sample Terraform code** for `main.tf` and `provider.tf` (like deploying an EC2 instance or S3 bucket), so your workflow creates actual AWS resources immediately?
