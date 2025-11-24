@@ -102,14 +102,7 @@ jobs:
       - name: Terraform Apply
         run: terraform apply -auto-approve tfplan
 ---
-
-
-
-
-
-
-
-
+````
 
 
 
