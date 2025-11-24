@@ -38,11 +38,68 @@ GitHub-Action-tf_CICD/
 
 ---
 
-# NOTE #
-: you can give any name before .yml 
 
-     ex: prod.yml
-         deploy.ml    (give any name)
+
+
+# CI/CD Workflow Naming Guide
+
+This repository documents the rules and conventions for naming CI/CD pipeline files across platforms.
+
+---
+
+## 📌 Important Note
+
+You can give **any name** before the `.yml` extension for your workflow files.
+
+### Examples
+- `prod.yml`
+- `deploy.yml`
+- `test.yml`
+- `staging.yml`
+
+👉 The filename prefix is flexible — you decide what makes sense for your project.
+
+---
+
+## 🚀 Usage
+
+- Place your workflow file in the correct directory depending on the platform:
+  - **GitHub Actions** → `.github/workflows/`
+  - **GitLab CI/CD** → root of the repository (with supported naming convention)
+
+---
+
+## ✅ Benefits of Flexible Naming
+- Allows multiple workflows for different environments (e.g., `prod.yml`, `staging.yml`).
+- Keeps pipelines organized and easy to identify.
+- Supports reuse across multiple deployment projects.
+
+---
+
+## Example Project Structure
+
+```
+project-root/
+│
+├── .github/
+│   └── workflows/
+│       ├── prod.yml
+│       └── deploy.yml
+│
+└── .github-ci.yml   # GitLab CI/CD pipeline (strict naming required)
+```
+
+---
+
+## 🔖 Summary
+- **GitHub Actions** → any name before `.yml`.
+- **GitLab CI/CD** → strict naming (`.github-ci.yml` only).
+
+
+---
+
+
+
 
 ### 2. Configure GitHub Secrets
 Go to:
