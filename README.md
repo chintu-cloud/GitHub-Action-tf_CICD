@@ -163,6 +163,11 @@ Once the workflow runs successfully:
 
 
 ```
----
+After create we can not destroy in github action flow, if we can destroy manually goto aws console select & delete resource.
+Because, after create resource terraform.tf files automatically deleted. so we cann't destroy through github action flow.
+```
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c19b863a-e49c-45bc-87ca-325dd394f47b" />
+
+```
 Would you like me to also **fill in sample Terraform code** for `main.tf` and `provider.tf` (like deploying an EC2 instance or S3 bucket), so your workflow creates actual AWS resources immediately?
