@@ -38,7 +38,10 @@ GitHub-Action-tf_CICD/
 
 ---
 
-
+# NOTE #
+: you can give any name before .yml 
+     ex: prod.yml
+         deploy.ml    (give any name)
 
 ### 2. Configure GitHub Secrets
 Go to:
