@@ -123,9 +123,8 @@ jobs:
 
 <img width="750" height="701" alt="Screenshot 2025-11-24 133528" src="https://github.com/user-attachments/assets/3b8fe1a4-7d2b-4c63-8420-0bd1a848a30f" />
 
-<img width="686" height="765" alt="Screenshot 2025-11-24 133616" src="https://github.com/user-attachments/assets/65329a3a-22b3-48ab-b0a9-de76b751da69" />
+<img width="1470" height="848" alt="plan_apply" src="https://github.com/user-attachments/assets/b9a5e0c7-4c9e-4d4d-80fb-f0815d00accc" />
 
-<img width="589" height="702" alt="Screenshot 2025-11-24 133636" src="https://github.com/user-attachments/assets/7ffacea2-566e-43d5-8628-7a51330bcf0f" />
 
 <img width="700" height="236" alt="Screenshot 2025-11-24 133707" src="https://github.com/user-attachments/assets/289872c8-6681-4f35-8ad1-fd9fd6bb4160" />
 
