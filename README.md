@@ -164,7 +164,9 @@ Once the workflow runs successfully:
 
 # why resources not destroy ?
 After resources create we can not destroy in github action flow, if we can destroy manually goto aws console select & delete resource.
+
 Because, after create resource terraform.tf files automatically deleted. so we cann't destroy through github action flow.
+
 if we can destroy manually goto aws console select & delete resource.
 
 
